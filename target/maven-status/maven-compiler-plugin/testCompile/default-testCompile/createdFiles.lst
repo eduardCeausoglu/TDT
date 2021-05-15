@@ -1,0 +1,7 @@
+org\example\features\search\SearchByKeywordStory.class
+org\example\steps\serenity\EndUserSteps.class
+org\example\features\login\TestLogin.class
+org\example\pages\ResultPage.class
+org\example\features\search\package-info.class
+org\example\features\search\SearchByKeywordStoryParametrized.class
+org\example\pages\DictionaryPage.class
